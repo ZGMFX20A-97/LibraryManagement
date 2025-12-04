@@ -1,0 +1,4 @@
+slack-bolt==1.27.0
+slack-cli-hooks<1.0.0
+pytest==9.0.1
+ruff==0.14.7

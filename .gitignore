@@ -1,0 +1,6 @@
+/.venv/
+/.python-version
+my-app/secretkey*.json
+my-app/slack*.json
+my-app/.slack/apps.dev.json
+my-app/.slack/cache/
